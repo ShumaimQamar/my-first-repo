@@ -1,6 +1,6 @@
 # my-first-repo
 
-my first repository
+my first repository(conflict-branch)
 
 Author - Shumaim Qamar
 
